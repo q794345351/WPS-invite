@@ -11,9 +11,9 @@ SCKEY = 'xxxxxxxxxxxxxxxxxxxxxxxx'  # '*********复制SERVER酱的SCKEY进来***
 data = {
     "wps_invite": [
         {
-            "name": "水哥他爸",
-            "invite_userid": 11699139251,  # "*********复制手机WPS个人信息中的用户ID进来，类似括号内容(191641526)*************(不保留双引号)",
-            "sid": "xxxxxxxxxx"  # network获取wps_sid
+            "name": "Zzw",
+            "invite_userid": 639314372,  # "*********复制手机WPS个人信息中的用户ID进来，类似括号内容(191641526)*************(不保留双引号)",
+            "sid": "V02SkhuZxsJqrNfopnijJG3s9ddavRk00a78a32400261b29c4"  # network获取wps_sid
         }
     ]
 }
@@ -48,11 +48,11 @@ def main():
     wps_inv = data['wps_invite']
     # 这13个账号被邀请
     invite_sid = [
-        "V02StVuaNcoKrZ3BuvJQ1FcFS_xnG2k00af250d4002664c02f",
-        "V02SWIvKWYijG6Rggo4m0xvDKj1m7ew00a8e26d3002508b828",
-        "V02Sr3nJ9IicoHWfeyQLiXgvrRpje6E00a240b890023270f97",
-        "V02SBsNOf4sJZNFo4jOHdgHg7-2Tn1s00a338776000b669579",
-        "V02ScVbtm2pQD49ArcgGLv360iqQFLs014c8062e000b6c37b6",
+        "V02SEPVt7lx4JA1JnFbsejvxbz4VVJA00a56ec7a004910bd95",
+        "V02SmfzVunbRzHQl-n--N-QGvCG6okQ00a7fbe37004912408e",
+        "V02SmdkLCQ7q8GprgFOCV4F6GDhKVoA00a5382570034b345f2",
+        "V02SKHPYCVzUdQQC2SIqMpy79q6prVs00a222a3200491249d9",
+        "V02S5JoNBz4kiJyoOMCEUvx-9509bwA00ac08452004910c962",
         "V02S2oI49T-Jp0_zJKZ5U38dIUSIl8Q00aa679530026780e96",
         "V02ShotJqqiWyubCX0VWTlcbgcHqtSQ00a45564e002678124c",
         "V02SFiqdXRGnH5oAV2FmDDulZyGDL3M00a61660c0026781be1",
